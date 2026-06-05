@@ -3,17 +3,5 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "nodeVersion": "18.x",
-  "outputDirectory": ".next",
-  "env": {
-    "NEXT_PUBLIC_APP_URL": "@next_public_app_url"
-  },
-  "crons": [],
-  "regions": ["sfo1"],
-  "public": true,
-  "git": {
-    "deploymentEnabled": {
-      "main": true
-    }
-  }
+  "outputDirectory": ".next"
 }
